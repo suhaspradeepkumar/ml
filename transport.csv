@@ -1,0 +1,11 @@
+distance,traffic,weather,fuel_price,cost
+2,low,clear,100,30
+5,medium,clear,102,70
+8,high,rainy,105,130
+3,low,foggy,98,45
+12,high,rainy,110,180
+7,medium,clear,101,95
+15,high,foggy,108,210
+4,low,clear,99,55
+10,medium,rainy,106,150
+20,high,rainy,112,260
